@@ -12,7 +12,7 @@ const Products = () => {
                   <div className="label">Sistemas De Administración</div>
                 </div>
                 <div className="third columns half-fixed item" style={{ background: 'linear-gradient(0deg, rgb(8, 174, 234) 0%, rgb(42, 245, 152) 100%)' }}>
-                  <div className="label"><h6 style={{font-family:'Times New Roman', Times, serif}}>Sistemas De Gestión</h6></div>
+                  <div className="label"><h6 style={{font-family:'\'Times New Roman\', Times ,serif'}}>Sistemas De Gestión</h6></div>
                 </div>
                 <div className="third columns half-fixed item" style={{ background: 'linear-gradient(0deg, rgb(8, 174, 234) 0%, rgb(42, 245, 152) 100%)' }}>
                   <div className="label">CRM</div>
