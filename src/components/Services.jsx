@@ -2,7 +2,8 @@ import React from 'react';
 import webdev from './assets/img/web.png';
 import mobiledev from './assets/img/mobile.png';
 import desktop from './assets/img/desktop.png';
-
+import support from './assets/img/support.png';
+import consulting from './assets/img/consulting.png';
 const Services = () => {
     return (
         <div className="container">
@@ -26,6 +27,22 @@ const Services = () => {
                 <p>Usualmente soluciones empresariales para automatizar procesos, como lo son los ERP y CRM.</p>
                 <div className="center">
                     <img src={ desktop } alt="purelabs desktop" className="info"/>
+                </div>
+                <div className="space"></div>
+            </div>
+            <div className="third columns">
+                <h3>Soporte Técnico</h3>
+                <p>Soporte y mantenimiento a equipo de cómputo.</p>
+                <div className="center">
+                    <img src={ support } alt="purelabs desktop" className="info"/>
+                </div>
+                <div className="space"></div>
+            </div>
+            <div className="third columns">
+                <h3>Consultoría</h3>
+                <p>Consultoría y asesoría de sistemas especializados a personal empresarial.</p>
+                <div className="center">
+                    <img src={ consulting } alt="purelabs desktop" className="info"/>
                 </div>
                 <div className="space"></div>
             </div>
