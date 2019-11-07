@@ -34,7 +34,7 @@ const Services = () => {
                 <h3>Soporte Técnico</h3>
                 <p>Soporte y mantenimiento a equipo de cómputo.</p>
                 <div className="center">
-                    <img src={ support } alt="purelabs desktop" className="info"/>
+                    <img src={ support } alt="purelabs desktop" className="info"  style="width:90%; height:90%"/>
                 </div>
                 <div className="space"></div>
             </div>
@@ -42,7 +42,7 @@ const Services = () => {
                 <h3>Consultoría</h3>
                 <p>Consultoría y asesoría de sistemas especializados a personal empresarial.</p>
                 <div className="center">
-                    <img src={ consulting } alt="purelabs desktop" className="info"/>
+                    <img src={ consulting } alt="purelabs desktop" className="info" style="width:90%; height:90%"/>
                 </div>
                 <div className="space"></div>
             </div>
