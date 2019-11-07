@@ -10,7 +10,7 @@ const Products = () => {
                     {/* <p>Web App moderna perfecta para aquellos que quieran trabajar con su información en tiempo real. Ideal para pequenas y medianas empresas.</p> */}
                     <div className="label">Puntos De Venta</div>
                     <div className="label">Sistemas De Administración</div>
-                    <div className="label">CRM Rhino</div>
+                    <div className="label">CRM</div>
                 </div>
             </section>
             <div className="space"></div>
