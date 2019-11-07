@@ -9,11 +9,11 @@ const Contact = () => {
         <div className="container">
             {/* <div className="third columns">
                 <div className="center">
-                    <h3>Facebook</h3>    
+                    <h3>Facebook</h3>
                     <a rel="noopener noreferrer" target="_blank" href="https://www.facebook.com/rhinowaremx/">
                         <img src={ facebook } alt="purelabs desktop" className="contact"/>
                     </a>
-                </div>          
+                </div>
             </div>
             <div className="third columns">
                 <div className="center">
@@ -46,14 +46,14 @@ const Contact = () => {
             </div>
             <div className="eight columns socialtext">
                 <h3>Teléfono</h3>
-                <p className="pcontact">(449) 950 5169</p>                
+                <p className="pcontact">(449) 950 5169</p>
             </div>
             <div className="eight columns">
-                <img src={ phone } alt="rhinoware email" className="contact"/>
+                <img src={ phone } alt="rhinoware phone" className="contact"/>
             </div>
         </div>
-        
-                
+
+
     );
 };
 
