@@ -51,8 +51,8 @@ code {
   position: relative;
   padding: 10px;
   margin-top: 100px;
-  background-color: #000;
-  color: #00d9ff;
+  background-color: rgba(10, 10, 10, 0.82);
+  color: #054752;
   text-align: center;
 }
 
